@@ -10,4 +10,7 @@ folder .Vscode also included - It include 2 file **tasks.json and launch.json** 
 
 Don't forget to change the serial port for BMP - on windows it could be **COM2 or COM3** and on linux it could be **/dev/ttyACM1 or /ttyUSB1**
 
+# Learn How to use BlackMagic Probe with VScode [Arabic video series]
+
+https://www.youtube.com/playlist?list=PLjw88zmwPxUJXUHPF2BtEORFXBJERqWmO
 
